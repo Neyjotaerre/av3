@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet(57,203,31);
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 45px;
+}
+p{
+    text-align: center;
+    color: azure;
+    font-size: 25px;
+}
+img{
+    width: 120px;
+    margin-left: 200px;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 730px;
+    margin-top: 125px;
+}
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 30px;
+    padding-left: 35px;
+}
